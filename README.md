@@ -1,2 +1,2 @@
 # SilkroadLauncherData2
-version.txt
+version.txt 1.1
